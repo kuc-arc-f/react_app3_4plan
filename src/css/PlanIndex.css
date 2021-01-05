@@ -1,0 +1,34 @@
+
+.today{
+  color : green;
+  font-weight: bold; 
+  font-size: 1.2rem;
+}
+.btn_move_wrap{ text-align : right; }
+.table .td_cls{
+  width : 80px;
+  min-height : 60px;
+}
+.table .content_text{
+  color : gray;
+  font-size : 11pt;
+  margin : 8px 0px;
+}
+.table .td_edit{
+  font-size : 11pt;
+}
+.table th{
+  text-align: center;
+  padding: 8px;
+}
+.table .th_sun{ color : red; }
+.table .th_sat{ color : blue; }
+#month{
+  width : 180px;
+}
+.month_move_wrap .fa-arrow-circle-left{
+  font-size : 1.8rem;
+}
+.month_move_wrap .fa-arrow-circle-right{
+  font-size : 1.8rem;
+}

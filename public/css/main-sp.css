@@ -1,0 +1,25 @@
+#div_img_main2 h1 {
+  font-size: 24px;
+  padding: 2em 1em;
+}
+div > .menubar {
+  display: none;
+}
+#nav-mobile {
+  display: block;
+  background: #757575;
+  padding: 10px;
+}
+ul.ul_mobile-child {
+  list-style: none;
+}
+.mobile-menu-item {
+  padding: 10px;
+  margin-bottom: 5px;
+  color: white;
+  width: 100%;
+  font-size: 16px;
+  text-align: left;
+  border: solid 1px white;
+  background: #757575;
+}
